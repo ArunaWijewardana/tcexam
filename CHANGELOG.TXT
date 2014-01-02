@@ -1,3 +1,12 @@
+12.1.012 (2013-12-24)
+	- MathML is now supported via the [mathml] tag. Note that is not yet possible to export the formulas in PDF format.
+
+12.1.011 (2013-12-11)
+	- A problem related to custom error messages and TCPDF library was fixed.
+
+12.1.010 (2013-12-01)
+	- TCPDF library was updated.
+
 12.1.009 (2013-10-24)
 	- Bug fix related to the new F_escape_sql function signature.
 
